@@ -1,0 +1,7 @@
+{
+    "api_url": "https://api.github.com/users/octocat",
+    "folders": {
+        "output": "warmup_folder"
+    },
+    "log_file": "warmup.log"
+}
