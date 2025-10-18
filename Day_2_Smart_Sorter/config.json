@@ -1,0 +1,19 @@
+{
+    "Target_Directory": "C:/Users/KARNAN/Downloads",
+    "File_Types":{
+    "Pictures": [".jpg", ".jpeg", ".png", ".gif"],
+    "Documents": [".pdf", ".docx", ".txt", ".xlsx", ".csv"],
+    "Videos": [".mp4", ".mkv", ".mov"],
+    "Apps": [".exe", ".apk"],
+    "Archives": [".zip", ".rar"],
+    "Others": [" "]
+    },
+    "Destination_Directories":{
+        "Pictures": "C:/Users/KARNAN/Pictures",
+        "Documents": "C:/Users/KARNAN/Documents",
+        "Videos": "C:/Users/KARNAN/Videos",
+        "Apps": "C:/Users/KARNAN/Apps",
+        "Archives": "C:/Users/KARNAN/Archives",
+        "Others": "C:/Users/KARNAN/Others"
+    }
+}
