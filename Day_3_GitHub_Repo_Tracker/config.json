@@ -1,0 +1,6 @@
+{
+    "github_users": ["octocat", "Karnan23"],
+    "output_directory": "github_output",
+    "log_file": "github_logs.log",
+    "req_github_details": ["name","html_url","stargazers_count","forks_count","language","created_at"]
+}
