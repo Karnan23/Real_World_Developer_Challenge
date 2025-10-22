@@ -1,0 +1,11 @@
+{
+    "SMTP_SERVER": "smtp.gmail.com",
+    "SMTP_PORT": 587,
+    "SENDER_NAME": "your_sender_name",
+    "SENDER_EMAIL": "your_email@gmail.com",
+    "SENDER_PASSWORD": "your_app_password_here",
+    "RECIPIENT_EMAIL": "recipient@example.com",
+    "NEWS_FILE": "path/to/tech_trends.json",
+    "LOGGING_FILE": "email_bot.log",
+    "NUM_NEWS": 5
+}
