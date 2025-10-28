@@ -1,0 +1,12 @@
+# Environment and config
+.env
+venv/
+__pycache__/
+
+# Logs and reports
+*.log
+*.xlsx
+
+# OS-specific files
+.DS_Store
+Thumbs.db
